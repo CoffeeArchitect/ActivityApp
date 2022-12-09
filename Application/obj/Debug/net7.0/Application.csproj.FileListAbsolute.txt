@@ -1,0 +1,17 @@
+/Users/sergejkorolev/Projects/ActivityApp/Application/bin/Debug/net7.0/Application.deps.json
+/Users/sergejkorolev/Projects/ActivityApp/Application/bin/Debug/net7.0/Application.dll
+/Users/sergejkorolev/Projects/ActivityApp/Application/bin/Debug/net7.0/Application.pdb
+/Users/sergejkorolev/Projects/ActivityApp/Application/bin/Debug/net7.0/Domain.dll
+/Users/sergejkorolev/Projects/ActivityApp/Application/bin/Debug/net7.0/Persistence.dll
+/Users/sergejkorolev/Projects/ActivityApp/Application/bin/Debug/net7.0/Domain.pdb
+/Users/sergejkorolev/Projects/ActivityApp/Application/bin/Debug/net7.0/Persistence.pdb
+/Users/sergejkorolev/Projects/ActivityApp/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/sergejkorolev/Projects/ActivityApp/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejkorolev/Projects/ActivityApp/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/sergejkorolev/Projects/ActivityApp/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/sergejkorolev/Projects/ActivityApp/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/sergejkorolev/Projects/ActivityApp/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/sergejkorolev/Projects/ActivityApp/Application/obj/Debug/net7.0/Application.dll
+/Users/sergejkorolev/Projects/ActivityApp/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/sergejkorolev/Projects/ActivityApp/Application/obj/Debug/net7.0/Application.pdb
+/Users/sergejkorolev/Projects/ActivityApp/Application/obj/Debug/net7.0/ref/Application.dll
