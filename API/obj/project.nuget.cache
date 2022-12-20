@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "KuD+iu+w5ClLE2VCI0oqJcF4gRzev7GpDu8HBGMknPcA0RSNhqVvatvqdTCEUqPSUMhdlU/9jIobJ34LU2VCsQ==",
+  "dgSpecHash": "y4KPZKsKd9T1SQDCj6xGUjNBhvPsyaL8+Vg96rGCNDoRQXQDWXSwWkZ029RtQUKoma91uVZoFrM/rCBrQtAgAQ==",
   "success": true,
   "projectFilePath": "/Users/sergejkorolev/Projects/ActivityApp/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/sergejkorolev/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/sergejkorolev/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/Users/sergejkorolev/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/sergejkorolev/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/sergejkorolev/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/sergejkorolev/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/sergejkorolev/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "/Users/sergejkorolev/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/sergejkorolev/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/sergejkorolev/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
     "/Users/sergejkorolev/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0/microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",

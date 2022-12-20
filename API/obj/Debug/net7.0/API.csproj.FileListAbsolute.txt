@@ -47,3 +47,6 @@
 /Users/sergejkorolev/Projects/ActivityApp/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
 /Users/sergejkorolev/Projects/ActivityApp/API/bin/Debug/net7.0/Mono.TextTemplating.dll
 /Users/sergejkorolev/Projects/ActivityApp/API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/sergejkorolev/Projects/ActivityApp/API/bin/Debug/net7.0/MediatR.dll
+/Users/sergejkorolev/Projects/ActivityApp/API/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/sergejkorolev/Projects/ActivityApp/API/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
